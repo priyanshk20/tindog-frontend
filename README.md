@@ -1,5 +1,5 @@
-#TinDog
+# TinDog
 
-##Tinder for Dogs
+## Tinder for Dogs
 
 Made using Html, CSS, Bootstrap
